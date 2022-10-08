@@ -1,2 +1,2 @@
-# Java-camp2.week
-1..hafta
+# Java-camp
+2.week
