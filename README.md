@@ -1,2 +1,2 @@
 # Java-camp
-2.week
+1.week
