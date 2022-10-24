@@ -1,0 +1,3 @@
+C:\Users\user\source\repos\YouTubeDemo\YouTubeDemo\obj\Debug\YouTubeDemo.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\YouTubeDemo\YouTubeDemo\obj\Debug\YouTubeDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\YouTubeDemo\YouTubeDemo\obj\Debug\YouTubeDemo.csproj.CoreCompileInputs.cache
